@@ -1,0 +1,116 @@
+body{
+  background-color: #f7f7f7;
+}
+.nav{
+  background-color: #333333;
+}
+.div{
+  width: 400px;
+  height: 85%;
+  outline: none;
+}
+.sign_in
+{
+  position: relative;
+  top: 0%;
+  left: 0%;
+}
+.form-reg
+{
+  position: absolute;
+  top: 100%;
+  right: 0%;
+  width: 250px;
+  height: 190px;
+  background-color: #333333;
+  display: none;
+  transition: all 0.3s;
+
+}
+.sign_in:hover .form-reg
+{
+  display: block;
+}
+.sign_in:hover{
+  background-color: #333333;
+  transition: all 0.3s;
+  
+}
+.search{
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+/* home */
+.a_main{
+  /* height: 7188px; */
+  border: 1px dashed green;
+}
+.foot{
+  /* height: 1588px; */
+  border: 2px solid red;
+}
+.a_main1{
+  border: 1px solid blue;
+  height: 6673px;
+  max-width: 1225px;
+}
+.a_main1_b1{
+  height: 816px;
+  border: 3px solid grey;
+}
+.a_main1_b1 > div{
+  border: 1px solid red;
+}
+.a_slider{
+  height: 345px;
+  border: 3px solid orange;
+  overflow: hidden;
+}
+.a_trending_products{
+  height: 450px;
+  border: 2px solid purple;
+}
+.a_main2{
+  border: 2px solid green;
+ 
+}
+.a_foot1{
+  height: 550px;
+  border: 5px solid red;
+}
+.a_foot2{
+  height: 997px;
+  border: 5px solid rgb(0, 153, 255);
+}
+
+.a_foot3{
+  height: 46px;
+  border: 5px solid rgb(13, 255, 0);
+}
+.Product
+{
+   width: 100%;
+   height: 400px;
+   display: flex;
+   justify-content: space-between;
+  
+}
+.Product-btn
+{
+    width: 200px;
+    height: 40px;
+    background-color:rgb(232, 0, 113);
+    color: white;
+    font-weight: 500; 
+}
+/* .card-image
+{
+  transition: transform .2s; 
+}
+.card-image .product-image-1:hover
+{
+  transform: scale( 1.2);
+} */

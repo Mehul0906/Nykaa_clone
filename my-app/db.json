@@ -1,0 +1,627 @@
+{
+  "productslider1": [
+    {
+      "id": "1",
+      "actual_rating": "4.4★/5",
+      "rating_count": "(40.8k)",
+      "product_name": "Cetaphil Moisturising Lotion For Dry To Normal Sensitive Skin - Dermatologist Recommended",
+      "size": "100ml",
+      "sale_price": "₹549",
+      "mrp_price": "",
+      "discounted_price": "",
+      "image": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/1/011e462NYKAB00001236_1.jpg"
+    },
+    {
+      "id": "2",
+      "actual_rating": "4.5★/5",
+      "rating_count": "(54.8k)",
+      "product_name": "NIVEA Vit E Body Milk Lotion - 5 In 1 Complete Care For 48H Nourished & Smooth Skin (Very Dry Skin)",
+      "size": "600ml",
+      "sale_price": "₹699",
+      "mrp_price": "",
+      "discounted_price": "OFFER",
+      "image": "https://images-static.nykaa.com/creatives/cd8ac5a1-f679-435f-a6d9-bbc599f3ea58/default.jpg?tr=cm-pad_resize,w-200"
+    },
+    {
+      "id": "3",
+      "actual_rating": "4.5★/5",
+      "rating_count": "(13.9k)",
+      "product_name": "Bioderma Niacinamide Moisturizer - Atoderm Creme Ultra-Boosts Hyaluronic Acid, Ceramides",
+      "size": "200 ml",
+      "sale_price": "₹699",
+      "mrp_price": "",
+      "discounted_price": "",
+      "image": "https://images-static.nykaa.com/creatives/4fd14bf6-60a0-4194-8be4-75d2159f2895/default.jpg?tr=cm-pad_resize,w-200"
+    },
+    {
+      "id": "4",
+      "actual_rating": "4.4★/5",
+      "rating_count": "(17.9k)",
+      "product_name": "Be Bodywise 1% Salicylic Acid Body Wash, Treats Body Acne & Strawberry Skin - Exfoliating Shower Gel",
+      "size": "3 Sizes",
+      "sale_price": "₹349",
+      "mrp_price": "BESTSELLER",
+      "discounted_price": "",
+      "image": "https://images-static.nykaa.com/creatives/fd3bb004-5fec-47a4-ba7b-2cb969d602ad/default.jpg?tr=cm-pad_resize,w-200"
+    },
+    {
+      "id": "5",
+      "actual_rating": "4.4★/5",
+      "rating_count": "(12.9k)",
+      "product_name": "Wishcare Sunscreen Body Lotion SPF 50 Broad Spectrum PA+++ UVA & UVB Protection - Body Sunscreen",
+      "size": "200ml",
+      "sale_price": "₹399",
+      "mrp_price": "BESTSELLER",
+      "discounted_price": "₹499",
+      "discount": "20%",
+      "image": "https://images-static.nykaa.com/uploads/e5eeef13-20c2-4e0d-9e2c-4bb272169b73.jpg?tr=cm-pad_resize,w-200"
+    },
+    {
+      "id": "6",
+      "actual_rating": "4.5★/5",
+      "rating_count": "(73.5k)",
+      "product_name": "MCaffeine Exfoliating Coffee Body Scrub For Tan Removal & Soft-Smooth Skin - 100% Natural",
+      "size": "100g",
+      "sale_price": "₹395",
+      "mrp_price": "BESTSELLER",
+      "discounted_price": "₹449",
+      "discount": "12%",
+      "image": "https://images-static.nykaa.com/creatives/ecc514b6-1f5c-4b63-93ca-3117c91277e2/default.jpg?tr=cm-pad_resize,w-200"
+    },
+    {
+      "id": "7",
+      "actual_rating": "4.5★/5",
+      "rating_count": "(54.8k)",
+      "product_name": "NIVEA Vit E Body Milk Lotion - 5 In 1 Complete Care For 48H Nourished & Smooth Skin (Very Dry Skin)",
+      "size": "600ml",
+      "sale_price": "₹699",
+      "mrp_price": "",
+      "discounted_price": "OFFER",
+      "image": "https://images-static.nykaa.com/creatives/cd8ac5a1-f679-435f-a6d9-bbc599f3ea58/default.jpg?tr=cm-pad_resize,w-200"
+    },
+    {
+      "id": "8",
+      "actual_rating": "4.4★/5",
+      "rating_count": "(12.9k)",
+      "product_name": "Wishcare Sunscreen Body Lotion SPF 50 Broad Spectrum PA+++ UVA & UVB Protection - Body Sunscreen",
+      "size": "200ml",
+      "sale_price": "₹399",
+      "mrp_price": "BESTSELLER",
+      "discounted_price": "₹499",
+      "discount": "20%",
+      "image": "https://images-static.nykaa.com/uploads/d87c703e-a6f2-4a48-a295-49bd10aee222.jpg?tr=cm-pad_resize,w-200"
+    }
+  ],
+  "ProductData": [
+    {
+      "id": "1",
+      "product_name": "Wishcare Detan Combo Sunscreen SPF 50 Broad Spectrum & 10% AHA BHA Body ",
+      "price": 998,
+      "discounted_price": 768,
+      "discount": "23% Off",
+      "ratings": 16012,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/e/7e21656WISHC00000116_10905.jpg",
+      "product_url": "https://www.nykaa.com/wishcare-detan-combo-sunscreen-spf-50-broad-spectrum-10percent-aha-1percent-bha-body-lotion/p/15524359?productId=15524359&pps=1",
+      "add_to_bag": true
+    },
+    {
+      "id": "2",
+      "product_name": "Be Bodywise 4% AHA BHA Underarm Roll On - Treats Pigmentation",
+      "price": 349,
+      "discounted_price": 329,
+      "discount": "6% Off",
+      "ratings": 17481,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/4/64f6335BEBOD00000196a_a0.jpg",
+      "product_url": "https://www.nykaa.com/be-bodywise-4percent-aha-bha-underarm-roll-on/p/8939408?productId=8939408&pps=2",
+      "add_to_bag": true
+    },
+    {
+      "id": "3",
+      "product_name": "NIVEA Vit E Body Milk Serum - 5 In 1 Complete Care For 48H Nourishment",
+      "price": 460,
+      "discounted_price": 322,
+      "discount": "30% Off",
+      "ratings": 54921,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/0/30479084005808752140b_b1.jpg",
+      "product_url": "https://www.nykaa.com/nivea-nourishing-body-mlk/p/6000?productId=6000&pps=3",
+      "sizes": [
+        "4 sizes",
+        "Preview Size"
+      ]
+    },
+    {
+      "id": "4",
+      "product_name": "Wishcare Sunscreen Body Lotion SPF 50 Broad Spectrum PA+++ UV",
+      "price": 499,
+      "discounted_price": 399,
+      "discount": "20% Off",
+      "ratings": 12946,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/e/6ed968cWISHC00000048_1.jpg",
+      "product_url": "https://www.nykaa.com/wishcare-spf50-sunscreen-body-lotion-with-uva-uvb-protection/p/7867857?productId=7867857&pps=4",
+      "add_to_bag": true
+    },
+    {
+      "id": "5",
+      "product_name": "CeraVe Moisturizing Cream For Dry To Very Dry Skin With Ceramides & Hyaluronic Acid",
+      "price": 399,
+      "ratings": 12512,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/8/f81ce043337875597227_1.jpg",
+      "product_url": "https://www.nykaa.com/cerave-moisturizing-cream-for-dry-to-very-dry-skin-with-ceramides-hyaluronic-acid/p/13169472?productId=13169472&pps=5",
+      "sizes": [
+        "2 sizes",
+        "Preview Size"
+      ]
+    },
+    {
+      "id": "6",
+      "product_name": "Chemist At Play Exfoliating Body Wash With 4% Lactic Acid +",
+      "price": 699,
+      "discounted_price": 529,
+      "discount": "24% Off",
+      "ratings": 12735,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/b/1bd7fe8CHEMI00000056_1.jpg",
+      "product_url": "https://www.nykaa.com/chemist-at-play-exfoliating-body-wash/p/5597634?productId=5597634&pps=6",
+      "sizes": [
+        "2 sizes",
+        "Preview Size"
+      ]
+    },
+    {
+      "id": "7",
+      "product_name": "Chemist at Play 5% AHA Underarm Roll On, Lactic Acid Deodorant",
+      "price": 399,
+      "discounted_price": 319,
+      "discount": "20% Off",
+      "ratings": 18733,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/e/1e81e8aCHEMI00000080_1.png",
+      "product_url": "https://www.nykaa.com/chemist-at-play-under-arm-roll-on-with-essential-ceramides-aqua-fragrance/p/5715292?productId=5715292&pps=7",
+      "add_to_bag": true
+    },
+    {
+      "id": "8",
+      "product_name": "NIVEA Pearl & Beauty Deodorant Roll On",
+      "price": 259,
+      "discounted_price": 194,
+      "discount": "25% Off",
+      "ratings": 27739,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/5/a591d474005900012821ab_0.jpg",
+      "product_url": "https://www.nykaa.com/nivea-pearl-beauty-deodorant-roll-on-config/p/158700?productId=158700&pps=8",
+      "sizes": [
+        "2 sizes",
+        "Preview Size"
+      ]
+    },
+    {
+      "id": "9",
+      "product_name": "Plum BodyLovin Vanilla Caramello Body Lotion With Cocoa Butter & Vitamin B5",
+      "price": 475,
+      "discounted_price": 404,
+      "discount": "15% Off",
+      "ratings": 6516,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/3/33a5554PLUMX00000780_1140624.jpg",
+      "product_url": "https://www.nykaa.com/plum-bodylovin-vanilla-caramello-body-lotion-with-cocoa-butter-vitamin-b5/p/13422758?productId=13422758&pps=9",
+      "sizes": [
+        "2 sizes",
+        "Preview Size"
+      ]
+    },
+    {
+      "id": "10",
+      "product_name": "Vaseline Gluta-Hya Dewy Radiance, Serum-In-Lotion, Boosted With",
+      "price": 325,
+      "discounted_price": 260,
+      "discount": "20% Off",
+      "ratings": 14910,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/a/9a28f79VASEL00000056_1.jpg",
+      "product_url": "https://www.nykaa.com/vaseline-gluta-hya-dewy-radiance/p/10415549?productId=10415549&pps=10",
+      "add_to_bag": true
+    },
+    {
+      "id": "11",
+      "product_name": "Nykaa Wanderlust Hand and Nail Cream with Avocado + Hyaluronic Acid",
+      "price": 299,
+      "discounted_price": 164,
+      "discount": "45% Off",
+      "ratings": 29537,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/9/8904245709884_1_1_3.jpg",
+      "product_url": "https://www.nykaa.com/nykaa-hand-nail-creme/p/347977?productId=347977&pps=16",
+      "shades": [
+        "16 shades",
+        "Preview Shades"
+      ]
+    },
+    {
+      "id": "12",
+      "product_name": "Stayfree Secure Cottony B3G2 Combo (XL)",
+      "price": 1065,
+      "discounted_price": 825,
+      "discount": "23% Off",
+      "ratings": 8741,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/e/2ea2e97STAYF00000039_2911_1.jpg",
+      "product_url": "https://www.nykaa.com/stayfree-secure-cottony-b3g2-combo-xl/p/12022046?productId=12022046&pps=17",
+      "add_to_bag": true
+    },
+    {
+      "id": "13",
+      "product_name": "Braun Face Mini Hair Electric Remover for Women FS1000",
+      "price": 2199,
+      "discounted_price": 1649,
+      "discount": "25% Off",
+      "ratings": 7607,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/d/1d921344210201313908.jpg",
+      "product_url": "https://www.nykaa.com/braun-fs1000-mini-facial-hair-remover-for-women/p/958445?productId=958445&pps=18",
+      "add_to_bag": true
+    },
+    {
+      "id": "14",
+      "product_name": "Gillette Venus Razor with Aloe Extract Combo Pack 1 Handle 3 Blades",
+      "price": 674,
+      "discounted_price": 371,
+      "discount": "45% Off",
+      "ratings": 14090,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/c/7cc42d3GILLE00000016a_a1.jpg",
+      "product_url": "https://www.nykaa.com/gillette-venus-smooth-combo-pack/p/12918577?productId=12918577&pps=19",
+      "add_to_bag": true
+    },
+    {
+      "id": "15",
+      "product_name": "NIVEA Whitening Smooth Skin Deodorant Roll On",
+      "price": 249,
+      "discounted_price": 187,
+      "discount": "25% Off",
+      "ratings": 31098,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/1/81389ba042214311_1.jpg",
+      "product_url": "https://www.nykaa.com/nivea-whitening-smooth-skin-deodorant-roll-on-config/p/158781?productId=158781&pps=20",
+      "sizes": [
+        "2 sizes",
+        "Preview Size"
+      ]
+    },
+    {
+      "id": "16",
+      "product_name": "Swiss Beauty Highlighting Makeup Base + Pearl Primer + Makeup Fixer Combo",
+      "price": 1047,
+      "discounted_price": 785,
+      "discount": "25% Off",
+      "ratings": 98767,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/9/f9f915eSWIAC00001594_01.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-foundation-primer-makeup-fixer-combo-to-set-your-makeup-base/p/10701321?productId=10701321&pps=1",
+      "add_to_bag": true
+    },
+    {
+      "id": "17",
+      "product_name": "Swiss Beauty Professional Face & Eye Brush - Set of 6",
+      "price": 1299,
+      "discounted_price": 714,
+      "discount": "45% Off",
+      "ratings": 9408,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/f/df3e0a5SWIAC00000049_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-professional-face-eye-brush-set-1/p/1063441?productId=1063441&pps=2",
+      "add_to_bag": true
+    },
+    {
+      "id": "18",
+      "product_name": "Swiss Beauty Bold Matt Lip Liner Multicolour - Pack of 12",
+      "price": 899,
+      "discounted_price": 629,
+      "discount": "30% Off",
+      "ratings": 9861,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/f/df3e0a58904325006568_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-bold-matt-lip-liner-pack-of-12/p/832638?productId=832638&pps=3",
+      "add_to_bag": true
+    },
+    {
+      "id": "19",
+      "product_name": "Swiss Beauty Long Lasting Professional Makeup Fixer Setting Spray",
+      "price": 289,
+      "discounted_price": 243,
+      "discount": "16% Off",
+      "ratings": 91407,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/f/df3e0a5NYSWISSB00122_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-long-lasting-makeup-fixer-natural-1/p/367161?productId=367161&pps=4",
+      "add_to_bag": true,
+      "tag": "BESTSELLER"
+    },
+    {
+      "id": "20",
+      "product_name": "Swiss Beauty Pure Matte Lipstick",
+      "price": 229,
+      "discounted_price": 172,
+      "discount": "25% Off",
+      "ratings": 39459,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/b/0b7b0adNYSWISSB00108_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-pure-matte-lipstick/p/367160?productId=367160&pps=5",
+      "shades": [
+        "30 shades",
+        "Preview Shades"
+      ],
+      "tag": "BESTSELLER"
+    },
+    {
+      "id": "21",
+      "product_name": "Swiss Beauty Holographic Eyeliner",
+      "price": 449,
+      "discounted_price": 382,
+      "discount": "15% Off",
+      "ratings": 5350,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/4/a4bed56SWIAC00002053_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-holographic-eyeliner/p/13660605?productId=13660605&pps=6",
+      "shades": [
+        "6 shades",
+        "Preview Shades"
+      ],
+      "tag": "BESTSELLER"
+    },
+    {
+      "id": "22",
+      "product_name": "Swiss Beauty Real Make-Up Base Highlighting Primer",
+      "price": 429,
+      "discounted_price": 343,
+      "discount": "20% Off",
+      "ratings": 29134,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/1/111ff258904325006285_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-real-make-up-base-highlighting-primer/p/16426076?productId=16426076&pps=7",
+      "shades": [
+        "3 shades",
+        "Preview Shades"
+      ],
+      "tag": "BESTSELLER"
+    },
+    {
+      "id": "23",
+      "product_name": "Swiss Beauty HD Matte Lipstick",
+      "price": 399,
+      "discounted_price": 279,
+      "discount": "30% Off",
+      "ratings": 26629,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/d/edd8d95SWIAC00000293_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-hd-matte-lipstick-lipstick/p/1231613?productId=1231613&pps=8",
+      "shades": [
+        "28 shades",
+        "Preview Shades"
+      ],
+      "tag": "BESTSELLER"
+    },
+    {
+      "id": "24",
+      "product_name": "Swiss Beauty Ultimate 9 Pigmented Colors Eyeshadow Palette",
+      "price": 329,
+      "discounted_price": 247,
+      "discount": "25% Off",
+      "ratings": 39458,
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/e/1e6ba91NYSWISSB00255_1.jpg",
+      "product_url": "https://www.nykaa.com/swiss-beauty-ultimate-shadow-palette/p/8423343?productId=8423343&pps=9",
+      "shades": [
+        "8 shades",
+        "Preview Shades"
+      ]
+    },
+    {
+      "id": "36",
+      "custom_tag": "FEATURED",
+      "custom_tag_2": "BESTSELLER",
+      "product_url": "https://www.nykaa.com/whisper-ultra-clean-sanitary-pads-for-women-xl-50-pads-pack-of-3/p/5145876?productId=5145876&pps=1",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/0/c083201WHISP00000015_1.jpg",
+      "product_name": "Whisper Ultra Clean Thin XL+ Sanitary Pads-Hygiene & Comfort...",
+      "price": 1977,
+      "discounted_price": 1463,
+      "discount": "26% Off",
+      "ratings": 803
+    },
+    {
+      "id": "37",
+      "custom_tag": "FEATURED",
+      "custom_tag_2": "BESTSELLER",
+      "product_url": "https://www.nykaa.com/whisper-bindazzz-nights-period-panty-combo/p/13689043?productId=13689043&pps=2",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/d/0d181ad4987176240453_1.jpg",
+      "product_name": "Whisper Bindazzz Nights Period Panty Combo",
+      "price": 798,
+      "discounted_price": 559,
+      "discount": "30% Off",
+      "ratings": 476
+    },
+    {
+      "id": "38",
+      "custom_tag": "FEATURED",
+      "custom_tag_2": "NEW",
+      "product_url": "https://www.nykaa.com/whisper-super-absorbent-period-panty-l-xl-pants-pack-of-6/p/16322068?productId=16322068&pps=3",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/9/99969fa4987176277046_1.jpg",
+      "product_name": "Whisper Super Absorbent Period Panty L-XL - 6 Pants",
+      "price": 425,
+      "discounted_price": 298,
+      "discount": "30% Off",
+      "ratings": 1
+    },
+    {
+      "id": "39",
+      "custom_tag": "FEATURED",
+      "custom_tag_2": "BESTSELLER",
+      "product_url": "https://www.nykaa.com/whisper-ultra-soft-sanitary-pads-xl-50-pc-pack-rs-42-off/p/542864?productId=542864&pps=4",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/2/d206bc24902430886529_1309_1.jpg",
+      "product_name": "Whisper Ultra Skinlove Soft Sanitary Pads For Women,50 Thin ...",
+      "price": 625,
+      "discounted_price": 469,
+      "discount": "25% Off",
+      "ratings": 10296
+    },
+    {
+      "id": "40",
+      "custom_tag": "FEATURED",
+      "custom_tag_2": "BESTSELLER",
+      "product_url": "https://www.nykaa.com/whisper-ultra-clean-sanitary-pads-xl-50-pc-pack-offer/p/762269?productId=762269&pps=5",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/3/a3202014902430680189_1.jpg",
+      "product_name": "Whisper Ultra Clean Thin XL+ Sanitary Pads-Hygiene & Comfort...",
+      "price": 689,
+      "discounted_price": 517,
+      "discount": "25% Off",
+      "ratings": 16759
+    },
+    {
+      "id": "41",
+      "custom_tag": "FEATURED",
+      "custom_tag_2": "BESTSELLER",
+      "product_url": "https://www.nykaa.com/whisper-bindazzz-nights-period-panties-pack-of-6-pants/p/4240690?productId=4240690&pps=6",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/2/221b201WHISP00000010_1.jpg",
+      "product_name": "Whisper Bindazzz Night Period Panty for Heavy flow- 360 degr...",
+      "price": 399,
+      "discounted_price": 279,
+      "discount": "30% Off",
+      "ratings": 6702
+    },
+    {
+      "id": "5918",
+      "productId": "2",
+      "quantity": 1,
+      "image": "h",
+      "price": 349
+    },
+    {
+      "id": "0416",
+      "productId": "1",
+      "quantity": 1,
+      "image": "h",
+      "price": 998
+    },
+    {
+      "id": "ce7a",
+      "productId": "1",
+      "quantity": 1,
+      "image": "h",
+      "price": 998
+    },
+    {
+      "id": "e6d8",
+      "productId": "8",
+      "quantity": 1,
+      "image": "h",
+      "price": 259
+    },
+    {
+      "id": "ef2a",
+      "productId": "10",
+      "quantity": 1,
+      "image": "h",
+      "price": 325
+    },
+    {
+      "id": "a310",
+      "productId": "5",
+      "quantity": 1,
+      "image": "h",
+      "price": 399
+    }
+  ],
+  "ProductData2": [
+    {
+      "id": "1",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/4/b466beeNYB358SKIN_01.jpg",
+      "product_name": "Nykd by Nykaa Lace Detail Breathe 3/4th Coverage T-shirt Bra",
+      "price": "₹849",
+      "rating": "(1)",
+      "sizes": "14 sizes"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/0/504e224NYB165-Bruschetta_1.jpg",
+      "product_name": "Nykd By Nykaa Easy Breezy Slip on Bra - Bruchetta NYB165",
+      "price": "₹399",
+      "rating": "(204)",
+      "sizes": "5 sizes",
+      "id": "6874"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/3/233a02cNYKDB00013329_1.jpg",
+      "product_name": "Nykd by Nykaa Summer Breeze Printed Bra-Clay-NYB274",
+      "price": "₹639",
+      "rating": "(4)",
+      "sizes": "12 sizes",
+      "discount": "20% Off",
+      "id": "9e43"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/5/d56a5dfNYKDB00005286-BLACK_1.jpg",
+      "product_name": "Nykd by Nykaa Shape up encircled bra with Full coverage - Black",
+      "price": "₹649",
+      "rating": "(207)",
+      "sizes": "20 sizes",
+      "id": "31ba"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/5/d578e62NYB042-Zinfandel_1.jpg",
+      "product_name": "Nykd by Nykaa Lift Me Up Bra - Maroon NYB042",
+      "price": "₹759",
+      "rating": "(220)",
+      "sizes": "24 sizes",
+      "discount": "20% Off",
+      "id": "612f"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/8/08e2603PK_NYKDB00013324_1.jpg",
+      "product_name": "Nykd by Nykaa Delicate Floral Printed Encircled Bra Light Blue - NYB275",
+      "price": "₹559",
+      "rating": "(15)",
+      "sizes": "20 sizes",
+      "discount": "20% Off",
+      "id": "922d"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/b/abaab79nyb113-beetle_01.jpg",
+      "product_name": "Nykd by Nykaa Soft Cup Easy-peasy Slip-on Bra with Full Coverage - Bettle Green",
+      "price": "₹399",
+      "rating": "(292)",
+      "sizes": "5 sizes",
+      "id": "51f2"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/c/dcb4647NYB198-SAILORBLUE_1.jpg",
+      "product_name": "Nykd by Nykaa Breathe Cotton Padded Wireless T-Shirt Bra 3/4th Coverage - Sailor Blue",
+      "price": "₹699",
+      "rating": "(265)",
+      "sizes": "14 sizes",
+      "id": "e6b9"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/8/1867dbdNYB101_WindsorWine_1.jpg",
+      "product_name": "Nykd by Nykaa Support Me Pretty Bra - Wine NYB101",
+      "price": "₹749",
+      "rating": "(409)",
+      "sizes": "20 sizes",
+      "id": "5158"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/2/92d0c45NNYP033-NavyGreyNude_1.jpg",
+      "product_name": "Nykd by Nykaa Women Hipster NYP033 Navy Grey Nude (Pack of 3)",
+      "price": "₹579",
+      "rating": "(9)",
+      "sizes": "5 sizes",
+      "id": "e131"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/b/fbad557NYP210_Elderberry_01.jpg",
+      "product_name": "Nykd by Nykaa Bonded No VPL Full brief Panty-NYP210-Mauve",
+      "price": "₹399",
+      "rating": "(12)",
+      "sizes": "5 sizes",
+      "id": "413b"
+    },
+    {
+      "type": "FEATURED",
+      "image_url": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/b/1b3fe62NYSH01-Blue_1.jpg",
+      "product_name": "Nykd by Nykaa NYSH01 Saree Shapewear - Blue",
+      "price": "₹1079",
+      "rating": "(17)",
+      "sizes": "5 sizes",
+      "discount": "10% Off",
+      "id": "c237"
+    }
+  ]
+}

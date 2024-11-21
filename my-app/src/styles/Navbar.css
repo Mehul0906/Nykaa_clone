@@ -1,0 +1,116 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.Navbar-first-div
+{
+    background-image: url('https://images-static.naikaa.com/media/wysiwyg/2021/common-strip.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    font-size: 15px;
+    color: black;
+    height:40px;
+}
+/* .Navbar-second-div
+{
+ height: 63px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+} */
+.text
+{
+   font-size: 16px;
+   font-weight: 500;
+}
+.search
+{
+    width: 250px;
+    height: 30px;
+}
+.search-icon
+{
+    font-size: 15px;
+    position: relative;
+    left: 37px; 
+    color:grey;
+}
+.search-box
+{
+ outline: none;
+ background-color: #f4f4f4;
+ width: 250px;
+ border: 1px solid grey;
+ border-radius: 4px;
+ height: 40px;   
+ padding-left: 26px;
+ font-size: 15px;
+}
+.search-box:hover
+{
+    border: 1px solid pink;
+}
+.Navbar-btn
+{
+    width: 75%;
+    height: 40px;
+    background-color:rgb(232, 0, 113);
+    color: white;
+    border-radius: 6px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+.Navbar-first-text :hover
+{
+    color: rgb(232, 0, 113);
+}
+.Navbar-text :hover
+{
+  color: rgb(232, 0, 113);
+  border-bottom: 3px solid rgb(232, 0, 113);
+}
+.Navbar-fourth-div
+{
+    width: 100%;
+}
+.Sign-box-first
+{
+    border: 1px solid gery;
+    width: 330px;
+    height: 235px;
+    padding: 10px;
+}
+.Sign-first-btn
+{
+    border: 1px solid  rgb(198, 198, 198);
+    color: rgb(232, 0, 113);
+    font-weight: 500;
+    padding: 8px;
+    width: 280px;
+    border-radius: 15px;
+    background-color: transparent;
+}
+.Sign-second-btn
+{
+    border: 1px solid rgb(198, 198, 198);
+    color: rgb(232, 0, 113);
+    font-weight: 500;
+    padding: 8px;
+    width: 280px;
+    border-radius: 15px;
+    background-color: transparent;
+}
+.Sign-first-btn:hover
+{
+    background-color: rgb(240, 240, 240);
+}
+.Sign-second-btn:hover
+{
+    background-color: rgb(240, 240, 240);
+}
